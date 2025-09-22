@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|c:\\users\\bzu laptop\u0027s\\desktop\\asp course\\trainig progects and samples\\userside\\userside\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|solutionrelative:userside\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|c:\\users\\bzu laptop\u0027s\\desktop\\asp course\\trainig progects and samples\\userside\\userside\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|solutionrelative:userside\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|c:\\users\\bzu laptop\u0027s\\desktop\\asp course\\trainig progects and samples\\userside\\userside\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|solutionrelative:userside\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|c:\\users\\bzu laptop\u0027s\\desktop\\asp course\\trainig progects and samples\\userside\\userside\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|solutionrelative:userside\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|c:\\users\\bzu laptop\u0027s\\desktop\\asp course\\trainig progects and samples\\userside\\userside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0842C83-68E7-476A-BDF8-53E61A7C1C06}|userSide\\userSide.csproj|solutionrelative:userside\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "userSide\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "userSide\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAFEqAAAAAAAAAAAUwGQqAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-10T11:38:39.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Models\\product.cs",
+              "RelativeDocumentMoniker": "userSide\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Models\\product.cs",
+              "RelativeToolTip": "userSide\\Models\\product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:06:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Program.cs",
+              "RelativeDocumentMoniker": "userSide\\Program.cs",
+              "ToolTip": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Program.cs",
+              "RelativeToolTip": "userSide\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:31:20.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "userSide\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "userSide\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwD8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T10:10:09.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Areas\\Customer\\controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "userSide\\Areas\\Customer\\controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BZU Laptop\u0027s\\Desktop\\ASP Course\\Trainig Progects and Samples\\userSide\\userSide\\Areas\\Customer\\controllers\\HomeController.cs",
+              "RelativeToolTip": "userSide\\Areas\\Customer\\controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:09:43.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

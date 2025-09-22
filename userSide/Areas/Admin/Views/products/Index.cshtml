@@ -1,0 +1,72 @@
+﻿@model IEnumerable<userSide.Models.product>
+
+@section sectionTitle {
+        Products
+}
+
+<div class="text-center mb-4">
+    <h1 class="display-4">Welcome To Admin Dashboard</h1>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Products List</h3>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-bordered table-hover">
+            <thead class="table-light text-center">
+                <tr>
+                    <th>Id</th>
+                    <th>Product Name</th>
+                    <th>Product Type</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="text-center">@item.productId</td>
+                            <td class="text-center">@item.productName</td>
+                            <td class="text-center">@item.productPrice</td>
+                            <td class="text-center">
+                                <a href="/Admin/products/Details/@item.productId" class="btn btn-outline-primary btn-sm">Details</a>
+                                <a href="/Admin/products/Edit/@item.productId" class="btn btn-outline-warning btn-sm">Edit</a>
+                                <a href="/Admin/products/Delete/@item.productId" class="btn btn-outline-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="4" class="text-center text-muted">No products found.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="card-footer clearfix">
+        <ul class="pagination pagination-sm m-0 float-right">
+            <li class="page-item @(ViewBag.CurrentPage <= 1 ? "disabled" : "")">
+                <a class="page-link" href="?page=@(ViewBag.CurrentPage - 1)">«</a>
+            </li>
+
+            @for (int i = 1; i <= ViewBag.TotalPages; i++)
+            {
+                <li class="page-item @(ViewBag.CurrentPage == i ? "active" : "")">
+                    <a class="page-link" href="?page=@i">@i</a>
+                </li>
+            }
+
+            <li class="page-item @(ViewBag.CurrentPage >= ViewBag.TotalPages ? "disabled" : "")">
+                <a class="page-link" href="?page=@(ViewBag.CurrentPage + 1)">»</a>
+            </li>
+        </ul>
+    </div>
+
+</div>
